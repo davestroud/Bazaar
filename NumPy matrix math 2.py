@@ -20,15 +20,15 @@ import matplotlib.cm as cm  #https://matplotlib.org/api/cm_api.html
 # it will be with matrix manipulations.
 
 # The problem is: you and your work friends are trying to decide where to go for lunch. 
-# You have to pick a resturant thats best for everyone.  
+# You have to pick a restaurant that's best for everyone.  
 
-# Then you should decided if you should split into two groups so eveyone is happier.
+# Then you should decide if you should split into two groups so everyone is happier.
 
 # Despite the simplictiy of the process you will need to make decisions regarding 
 # how to process the data.
 
-# This process was thoughly investigated in the operation research community.  
-# This approach can prove helpful on any number of decicison making problems 
+# This process was thoroughly investigated in the operations research community.  
+# This approach can prove helpful on any number of decision making problems 
 # that are currently not leveraging machine learning.
 
 # You asked your 10 work friends to answer a survey. 
